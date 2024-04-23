@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE :19.2.24
+## NAME : PARAMASIVAM K																		             
+## ROLLNUMBER :212221080054
+## DEPARTMENT : MECHANICAL
 
 
 ## AIM:
@@ -38,6 +38,8 @@ Clock Speed	16 MHz
 FIGURE-01
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
+![image](https://github.com/kparamasivamk/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/161025390/ffbf8bce-06d8-43eb-9814-0a8550366906)
+
 FIGURE-02
 ## PROCEDURE 
  Open tinker cad account 
@@ -64,6 +66,7 @@ FIGURE -03
 ## PROGRAM 
  
  
+![image](https://github.com/kparamasivamk/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/161025390/009e865e-f9a6-496c-8be8-4d29a03413d9)
 
 
 
@@ -80,6 +83,7 @@ FIGURE -03
 
 
 ## OUTPUT OF SIMULATION :
-
+![image](https://github.com/kparamasivamk/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/161025390/3756841e-bd98-4555-a806-3313134dff6b)
 [My image](username.github.com/repository/img/image.jpg)
-
+RESULT:
+Thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad .
